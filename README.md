@@ -2,7 +2,6 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Eu+sou+o+Raul+Silva;Eu+tenho+27+anos;Eu+sou+formado+em;Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem+vindo!!!:%29)](https://git.io/typing-svg)
 
-- 👨‍💻 Trabalho com front-end
 - 📚 Estudando Javascript, SQLServer
 
 <div align="center">
