@@ -2,23 +2,21 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Eu+sou+o+Raul+Silva;Eu+tenho+27+anos;Eu+sou+formado+em;Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem+vindo!!!:%29)](https://git.io/typing-svg)
 
-- 📚 Estudando Javascript, SQLServer
+- 📚 Estudando Javascript e SQLServer
 
 <div align="center">
   <a href="https://github.com/Raulps">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raulps&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raulps&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raulps&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raulps&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Raul-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Raul-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Raul-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Raul-BootStrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> 
-   <i class="devicon-microsoftsqlserver-plain-wordmark colored" align="center" alt="Raul-SQLServer" height="40" widht="50"></i>
+  <img align="center" alt="Raul-Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 </div>
-
-##
+  
+  ##
 
 <div> 
   <a href = "mailto:raulps020495@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
